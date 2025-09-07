@@ -3,7 +3,7 @@ layout: page
 title: Neo-Luddite resistance and refusal
 description: another without an image
 img:
-importance: 3
+importance: 4
 category: fun
 ---
 
