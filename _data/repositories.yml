@@ -1,10 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ricksva
 
 repo_description_lines_max: 2
 
 github_repos:
+  - ricksva/ricksva.github.io
   - alshedivat/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
