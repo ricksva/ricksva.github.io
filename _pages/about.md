@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Teaching Professor of Philosophy and Computer Science in the College of Social Sciences and Humanities (CSSH) and in Khoury College of Computing Sciences, at Northeastern University. I teach philosophy courses and I work with other Khoury
+faculty to incorporate theteaching of ethical concepts into the Computer Science curriculum.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My undergraduate and doctoral degrees are in Philosophy, and my focus in graduate school was on friendship and theory of
+action. During and after college, and before graduate school, I was a technical writer and computer programmer at IBM.
+I think and write about the ethical implications of digital technologies, among other topics. I also have a variety of
+tremendously fascinating pastimes and interests.
