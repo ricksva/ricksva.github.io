@@ -91,7 +91,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-vsd-vad-modules",
           title: 'VSD/VAD modules',
-          description: "with background image",
+          description: "ethics-related modules for CS (and related) courses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-computer-ethics-pedagogy",
