@@ -4,7 +4,7 @@ title: Neo-Luddite resistance and refusal
 description: another without an image
 img:
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
