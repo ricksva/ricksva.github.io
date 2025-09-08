@@ -2,7 +2,7 @@
 layout: page
 title: VSD/VAD modules
 description: ethics-related modules for CS (and related) courses
-img: assets/img/12.jpg
+
 importance: 1
 category: work
 related_publications: true
