@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VSD/VAD modules
-description: with background image
+description: ethics-related modules for CS (and related) courses
 img: assets/img/12.jpg
 importance: 1
 category: work
