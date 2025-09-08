@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://ricksva.github.io/sitemap.xml
+Sitemap: https://ricksva.io/sitemap.xml
