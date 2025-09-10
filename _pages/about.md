@@ -28,8 +28,8 @@ latest_posts:
 
 I'm a Teaching Professor of Philosophy and Computer Science in the College of Social Sciences
 and Humanities (CSSH) and in Khoury College of Computing Sciences, at Northeastern University.
-I think and write about the philosophical implications of digital technologies, among other topics.
-I teach undergraduate- and graduate-level philosophy courses mostly focused on the, and I work
+I teach undergraduate- and graduate-level philosophy courses mostly focused on philosophical implications
+of digital technologies, and I work
 with other Philosophy and CS faculty to incorporate the teaching of ethical concepts into the Computer
 Science curriculum. We make heavy use of the Value Sensitive Design and Values Analysis in Design
 frameworks and approaches.
